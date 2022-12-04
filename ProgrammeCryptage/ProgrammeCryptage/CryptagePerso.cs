@@ -60,6 +60,11 @@ namespace ProgrammeCryptage
                         encryptMsg.Add("๓");
                         break;
                     }
+                    if(letter==44)
+                    {
+                        encryptMsg.Add("๔");
+                        break;
+                    }
                     if (letter == j)
                     {
                         encryptMsg.Add(thai[i]);
@@ -112,6 +117,12 @@ namespace ProgrammeCryptage
                     if(letter==3667)
                     {
                         decryptMsg.Add('?');
+                        builder.Clear();
+                        break;
+                    }
+                    if(letter==3668)
+                    {
+                        decryptMsg.Add(',');
                         builder.Clear();
                         break;
                     }
