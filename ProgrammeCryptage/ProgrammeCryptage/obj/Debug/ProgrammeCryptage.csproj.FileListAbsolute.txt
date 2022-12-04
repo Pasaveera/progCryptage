@@ -1,0 +1,10 @@
+C:\Users\Kate\Desktop\Kate General\Bloc2\POO\Visual_studio2019\ProgrammeCryptage\ProgrammeCryptage\bin\Debug\ProgrammeCryptage.exe.config
+C:\Users\Kate\Desktop\Kate General\Bloc2\POO\Visual_studio2019\ProgrammeCryptage\ProgrammeCryptage\bin\Debug\ProgrammeCryptage.exe
+C:\Users\Kate\Desktop\Kate General\Bloc2\POO\Visual_studio2019\ProgrammeCryptage\ProgrammeCryptage\bin\Debug\ProgrammeCryptage.pdb
+C:\Users\Kate\Desktop\Kate General\Bloc2\POO\Visual_studio2019\ProgrammeCryptage\ProgrammeCryptage\obj\Debug\ProgrammeCryptage.csproj.AssemblyReference.cache
+C:\Users\Kate\Desktop\Kate General\Bloc2\POO\Visual_studio2019\ProgrammeCryptage\ProgrammeCryptage\obj\Debug\ProgrammeCryptage.Form1.resources
+C:\Users\Kate\Desktop\Kate General\Bloc2\POO\Visual_studio2019\ProgrammeCryptage\ProgrammeCryptage\obj\Debug\ProgrammeCryptage.Properties.Resources.resources
+C:\Users\Kate\Desktop\Kate General\Bloc2\POO\Visual_studio2019\ProgrammeCryptage\ProgrammeCryptage\obj\Debug\ProgrammeCryptage.csproj.GenerateResource.cache
+C:\Users\Kate\Desktop\Kate General\Bloc2\POO\Visual_studio2019\ProgrammeCryptage\ProgrammeCryptage\obj\Debug\ProgrammeCryptage.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Desktop\Kate General\Bloc2\POO\Visual_studio2019\ProgrammeCryptage\ProgrammeCryptage\obj\Debug\ProgrammeCryptage.exe
+C:\Users\Kate\Desktop\Kate General\Bloc2\POO\Visual_studio2019\ProgrammeCryptage\ProgrammeCryptage\obj\Debug\ProgrammeCryptage.pdb
